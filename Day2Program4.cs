@@ -8,7 +8,7 @@ using System.Threading.Tasks;
      Write a C# Sharp program that takes four numbers as input from the user to
      calculate and print the average.
      Expected Output:
-     The average of 10 , 15   , 20 , 30 is: 18
+     The average of 10 , 15 , 20 , 30 is: 18
  */
 
 namespace LabALLQustPactics
