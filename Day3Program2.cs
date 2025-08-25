@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- Write a C# program to demonstrate the use of string and char data types.
-create a class with the name "-------" in that write the Main Method 
-In the Main Method:-
-Declare a string variable to store your name.
-Declare a char variable to store the first letter of your name.
-Print both the string and char values.
-Use the .GetType() method to display the actual data type of each variable.
+    Write a C# program to demonstrate the use of string and char data types.
+    create a class with the name "-------" in that write the Main Method 
+    In the Main Method:-
+    Declare a string variable to store your name.
+    Declare a char variable to store the first letter of your name.
+    Print both the string and char values.
+    Use the .GetType() method to display the actual data type of each variable.
 
  */
 
