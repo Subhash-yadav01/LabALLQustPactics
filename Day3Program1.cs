@@ -16,7 +16,7 @@ using System.Threading.Tasks;
 
 namespace LabALLQustPactics
 {
-    internal class Day3Program1
+    internal class Day3Program1 
     {
         static void Main(string[] args)
         {
