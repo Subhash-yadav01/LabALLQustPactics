@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>LabALLQustPactics.Day4Program6</StartupObject>
+	  <StartupObject>LabALLQustPactics.Day6Program6</StartupObject>
   </PropertyGroup>
 
 </Project>
